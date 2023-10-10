@@ -7,3 +7,5 @@ function tocaSomPom(){
     document.querySelector('#som_tecla_clap').play()
 }
 document.querySelector('.tecla_pom').onclick =tocaSomClap;
+
+const listaDeTeclas = document.querySelectorAll('.tecla');
