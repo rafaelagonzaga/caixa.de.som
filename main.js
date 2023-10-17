@@ -13,5 +13,5 @@ const listaDeTeclas = document.querySelectorAll('.tecla');
 listaDeTeclas[1].onclick = tocaSomClap
 
 while(){
-
+    let contador = 0
 }
