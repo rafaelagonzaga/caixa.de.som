@@ -9,7 +9,7 @@ document.querySelector('.tecla_pom').onclick =tocaSomPom;
 const listaDeTeclas = document.querySelectorAll('.tecla');
 
 //chamando a função tocaSomPom pelo item "0" da listaDeTecla
-listaDeTeclas[1].onclick = tocaSomClap
+listaDeTeclas[1].onclick = tocaSomPom
 
     let contador = 0
     while(contador <9){
